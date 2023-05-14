@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BackgroundHttpsRequests</string>
+    <string name="help">This app tries to get data from the server using ExecutorService and uses ViewModel for State Management without blocking the UI.\n\nIt uses the random cat API as a backend https://catfact.ninja/fact.\n\nClick on the button below to test it out</string>
+</resources>
